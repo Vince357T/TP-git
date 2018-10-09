@@ -1,4 +1,0 @@
-4fcbfbc display copyright
-bae83ff Add file header
-e591997 Add build time
-1140ab5 Initial commit
